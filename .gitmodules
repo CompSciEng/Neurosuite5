@@ -1,6 +1,6 @@
 [submodule "neuroscope"]
 	path = neuroscope
-	url = https://github.com/neurosuite/neuroscope.git
+	url = https://github.com/CompSciEng/neuroscope.git
 [submodule "libneurosuite"]
 	path = libneurosuite
-	url = https://github.com/neurosuite/libneurosuite.git
+	url = https://github.com/CompSciEng/libneurosuite.git
