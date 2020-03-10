@@ -1,0 +1,84 @@
+        SUMMARY OF THE HDF5 CONFIGURATION
+        =================================
+
+General Information:
+-------------------
+                   HDF5 Version: 1.10.5
+                  Configured on: 2019-05-11
+                  Configured by: Unix Makefiles
+                    Host system: Darwin-18.2.0
+              Uname information: Darwin
+                       Byte sex: little-endian
+             Installation point: /Users/robertmoore/Neuroscope/hdf5/CMake-hdf5-1.10.5/HDF_Group/HDF5/1.10.5
+
+Compiling Options:
+------------------
+                     Build Mode: Release
+              Debugging Symbols: 
+                        Asserts: 
+                      Profiling: 
+             Optimization Level: 
+
+Linking Options:
+----------------
+                      Libraries: 
+  Statically Linked Executables: OFF
+                        LDFLAGS: 
+                     H5_LDFLAGS: 
+                     AM_LDFLAGS: 
+                Extra libraries: m;dl
+                       Archiver: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar
+                         Ranlib: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib
+
+Languages:
+----------
+                              C: yes
+                     C Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc 10.0.0.10001145
+                       CPPFLAGS: 
+                    H5_CPPFLAGS: 
+                    AM_CPPFLAGS: 
+                         CFLAGS: -std=c99 -Wno-format-nonliteral -Wno-cast-align -Wno-unused -Wno-unused-variable -Wno-unused-function -Wno-self-assign -Wno-unused-parameter -Wno-sign-compare -Wno-deprecated-declarations -Wno-uninitialized -g -O0 -fstack-protector-all -D_FORTIFY_SOURCE=2
+                      H5_CFLAGS: 
+                      AM_CFLAGS: 
+               Shared C Library: YES
+               Static C Library: YES
+
+                        Fortran: OFF
+               Fortran Compiler:  
+                  Fortran Flags: 
+               H5 Fortran Flags: 
+               AM Fortran Flags: 
+         Shared Fortran Library: YES
+         Static Fortran Library: YES
+
+                            C++: ON
+                   C++ Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ 10.0.0.10001145
+                      C++ Flags: -Wno-format-nonliteral -Wno-cast-align -Wno-unused -Wno-unused-variable -Wno-unused-function -Wno-self-assign -Wno-unused-parameter -Wno-sign-compare -Woverloaded-virtual -Wshadow -Wwrite-strings -Wc++11-compat -g -O0 -fstack-protector-all -D_FORTIFY_SOURCE=2
+                   H5 C++ Flags: 
+                   AM C++ Flags: 
+             Shared C++ Library: YES
+             Static C++ Library: YES
+
+                            JAVA: OFF
+                   JAVA Compiler:  
+
+Features:
+---------
+                   Parallel HDF5: OFF
+Parallel Filtered Dataset Writes: 
+              Large Parallel I/O: 
+              High-level library: ON
+                    Threadsafety: OFF
+             Default API mapping: v110
+  With deprecated public symbols: ON
+          I/O filters (external):  DEFLATE DECODE ENCODE
+                             MPE: 
+                      Direct VFD: 
+                         dmalloc: 
+  Packages w/ extra debug output: 
+                     API Tracing: OFF
+            Using memory checker: OFF
+ Memory allocation sanity checks: OFF
+          Function Stack Tracing: OFF
+       Strict File Format Checks: OFF
+    Optimization Instrumentation: 
