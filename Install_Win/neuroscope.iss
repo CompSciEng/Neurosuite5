@@ -37,6 +37,7 @@ Source: ".\neuroscope.exe"; DestDir: "{app}"; Flags: ignoreversion
 Source: ".\libneurosuite.dll"; DestDir: "{app}";
 Source: ".\cbsdk.dll"; DestDir: "{app}";
 Source: ".\Qt\*.dll"; DestDir: "{app}";
+Source: "..\neuroscope\doc\en\html\*.*";  DestDir: "{app}\doc\en\html";
 
 Source: ".\VisualStudio2015RunTime\vc_redist.x64.exe"; DestDir: {app}\bin; Flags: deleteafterinstall
 
