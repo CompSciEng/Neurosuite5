@@ -141,7 +141,7 @@ _**QT**_
 
 -   On the Mac (OSX), attempt to get the latest version of QT, say QT 5.12 or newer. Also install XCODE. Older versions of QT are not compatible with some OSX constraints.
     
--   On Unbuntu or Linux Mint or similar, try to install QT 5.5.1. Older versions likely won't work, and versions 5.6.3 and newer use a Chromium component that Unbuntu may not want.
+-   On Ubuntu or Linux Mint or similar, try to install QT 5.5.1. Older versions likely won't work, and versions 5.6.3 and newer use a Chromium component that Ubuntu may not want.
     
 -   I have not tried other versions of Linux, but I'd guess that you may find success using the latest version of QT, say QT5.13 as of May 2020.
     
